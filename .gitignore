@@ -1,0 +1,12 @@
+# Output scan results
+*.csv
+*.log
+*.txt
+
+# PowerShell temporary and user files
+*.ps1xml
+*~
+
+# VS Code & IDE settings
+.vscode/
+.idea/
